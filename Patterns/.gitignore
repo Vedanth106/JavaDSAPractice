@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# Temporary / system files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Input / Output temporary files
+input.txt
+output.txt
